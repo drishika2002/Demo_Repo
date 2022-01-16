@@ -1,0 +1,17 @@
+h3 {
+    border-width: 2px;
+    border-style: dotted;
+    border-color: black;
+}
+
+.para {
+    color: brown;
+}
+
+#fruits {
+    color: red;
+}
+
+a:hover {
+    color:yellow;
+}
